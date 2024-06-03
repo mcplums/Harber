@@ -19,7 +19,7 @@
   "dependencies": {
     "@babel/core": "^7.15.0",
     "@codechecks/client": "^0.1.11",
-    "@openzeppelin/contracts": "^4.3.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "@truffle/contract": "^4.3.30",
     "@truffle/hdwallet-provider": "^1.4.3",
     "acorn": "^8.4.1",
